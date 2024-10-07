@@ -1,0 +1,143 @@
+<html>
+<head>
+<title>Resume -  Pacharane Dnyaneshwari</title>
+</head>
+<style>
+P
+{
+border:5px solid black
+}
+img{
+float:right;
+border-radius:50%;
+}
+</style>
+<p>
+<body>
+  
+  <center><h1><u> RESUME </u></h1></center>
+<img src="1.jpg" alt="Pacharane Dnyaneshwari" height="150px" width="150px"><br><br>  
+
+<h3>Pacharane Dnyaneshwari Maruti</h3>
+<h4> dnyaneshwaripacharane830@gmail.com </h4>
+<h4> 8862036346</h4>
+<hr color="black">
+<img src="">
+<h3>
+<div style="background-color:black;color:white;padding:05px">
+<u> CARRER OBJECTIVE </u></h3>
+
+<h4> I am student and i am in a college new arts commerce and science college ahmednagar. where i can explore more, enhance my skills and also keep up the  in college.and now am learning <b> Full Stack java Devlopment Tranning </b>
+ </h4>
+
+<h3><div style="background-color:black;color:white;padding:05px"><u> ACADMIC QUALIFICATION </u></h3>
+<table border = 4 width= 1000 >
+<tr>
+     <th> Qulaification </th>
+     <th> Board/University </th>
+     <th> School/College </th>
+     <th> Marks </th>
+</tr >
+
+<tr>
+    <th> BCA(Science) </th>
+    <th> Pune University</th>
+    <th> New Arts's,Commerce & Science College Ahmednagar </th>
+    <th> 76.17% </th>
+
+</tr>
+
+<tr>
+    <th> HSC </th>
+    <th>Pune University </th>
+    <th> Aanandrao Phalake Patil,Karjat /th>
+    <th> 82.20% </th>
+
+</tr>
+ 
+<tr>
+     <th> SSC </th>
+     <th>  State Board </th>
+     <th> New English School Bhose </th>
+     <th> 79.17% </th>
+</tr>
+
+ 
+</table>
+
+<h3><div style="background-color:black;color:white;padding:05px"><u> STRENGHT </u></h3>
+<ul type ="square">
+<b>
+<h3>
+ <li> Good Communication skills </li>
+ <li> Foucused and Confident </li> 
+<li> poistive attitude </li>
+ <li> Self Motivation </li>
+<li> team Spirit </li>
+<li>Honest </li>
+</h3>
+</b>
+</ul>
+
+<h3><div style="background-color:black;color:white;padding:0.5px"><u> EXTRA CURRICULAR ACTIVITIES </u></h3>
+<ul>
+ <b>
+ <li> Active social worker </li>
+ <li> Active participant in organizing various events </li>
+ <li> Learning A New Thinks </li>
+ <li> Very active public speaker </li>
+<li> WorkShops </li>
+ </b>
+  
+</ul>
+
+
+<h3><div style="background-color:black;color:white;padding:0.5px"><u> SKILL SET </u></h3>
+<ul>
+ <b>
+<li>Web Technology </li>
+<li>Operating System </li>
+<li> python </li>
+<li> JavaScript </li>
+ <li> Git Thub Tools </li>
+ <li>Maven Tools </li>
+ <li>java </li>
+ <li> Database </li>
+ </b>
+  
+</ul>
+
+
+<h3><div style="background-color:black;color:white;padding:05px"><u> PERSONAL DETAILS </u></h3>
+<ul>
+<b>
+   <li>Name : Pacharane Dnyaneshwari Maruti </li>
+   <li>Married : NO </li>
+   <li> Hobbies : </li>
+                   <ul>
+                   <li>Coding</li>
+                   <li> Volunteering</li>
+                   <li> Learning new Programming</li>
+		   <li> </li>
+                   </ul>
+   <li> Languages known: Marathi,Hindi, English </li>
+   <li> Nationally : INDIAN </li>                
+</b>
+</ul>
+
+<hr color ="black">
+<table width=80%>
+<tr>
+<td>
+<h4><u> DATE </u> :</h4>
+<h4><u> PLACE </u> : Karjat </h4>
+</td>
+<td align="right">
+<h4><u>   Name </u> : Dnyaneshwari Pacharane </h4>
+<h3><u> Signature:   </u>:</h3>
+</td>
+</tr>
+</table>
+</body>
+</p>
+</html>
